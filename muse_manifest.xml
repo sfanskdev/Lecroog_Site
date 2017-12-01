@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lecroog.com" resolutions="1x" timestamp="1512131058594">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lecroog.com" resolutions="1x" timestamp="1512132198427">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="88701868" ref="index"/>
-    <file name="index.css" crc="326019398" ref="index"/>
+    <file name="index.css" crc="4157082719" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -24,5 +24,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4213215685" seo="true" mt="1512130942889" redirect="true"/>
+  <file name="index.html" crc="54376050" seo="true" mt="1512131607261" redirect="true"/>
 </manifest>
