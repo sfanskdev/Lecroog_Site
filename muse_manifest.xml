@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lecroog.com" resolutions="1x" timestamp="1512143232015">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lecroog.com" resolutions="1x" timestamp="1517579182980">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="86127092" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="487699385" ref="index"/>
-    <file name="index.css" crc="4190231660" ref="index"/>
-    <file name="nomq_index.css" crc="304192558" ref="index"/>
+    <file name="master_a-master.css" crc="4214854938" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="182583685" ref="index"/>
+    <file name="index.css" crc="315144039" ref="index"/>
+    <file name="nomq_index.css" crc="315407545" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -20,19 +20,26 @@
     <file name="lecroog_circle(r).png" crc="4025198172" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="lecroog_logo(r).png" crc="3907291186" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="back01.jpg" crc="57306273" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="tel.jpg" crc="209279561" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
+    <file name="tel.svg" crc="4227851092" ref="index"/>
+    <file name="tel_poster_u1427.png" crc="4219776751" ref="index"/>
   </folder>
-  <file name="index.html" crc="230136175" seo="true" mt="1512143182947" redirect="true"/>
+  <file name="index.html" crc="27628830" seo="true" mt="1517578138676" redirect="true"/>
 </manifest>
