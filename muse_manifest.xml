@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lecroog.com" resolutions="1x" timestamp="1549462313288">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lecroog.com" resolutions="1x" timestamp="1549468078037">
   <folder name="css">
     <file name="site_global.css" crc="490001510"/>
-    <file name="master_a-master.css" crc="4185496703" ref="index"/>
+    <file name="master_a-master.css" crc="3788179885" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="459917610" ref="index"/>
-    <file name="index.css" crc="146947675" ref="index"/>
+    <file name="index.css" crc="4019239956" ref="index"/>
     <file name="nomq_index.css" crc="4242930342" ref="index"/>
     <file name="iefonts_index.css" crc="4199591671" ref="index"/>
   </folder>
@@ -73,5 +73,5 @@
     <file name="tel.svg" crc="118098464" ref="index"/>
     <file name="tel_poster_u1979.png" crc="4018328037" ref="index"/>
   </folder>
-  <file name="index.html" crc="339893648" seo="true" mt="1549462312117" redirect="true"/>
+  <file name="index.html" crc="241943722" seo="true" mt="1549467960871" redirect="true"/>
 </manifest>
