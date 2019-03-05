@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lecroog.com" resolutions="1x" timestamp="1549470475338">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lecroog.com" resolutions="1x" timestamp="1551805232071">
   <folder name="css">
     <file name="site_global.css" crc="490001510"/>
     <file name="master_a-master.css" crc="72638224" ref="index"/>
@@ -57,5 +57,5 @@
     <file name="tel.svg" crc="118098464" ref="index"/>
     <file name="tel_poster_u1979.png" crc="4018328037" ref="index"/>
   </folder>
-  <file name="index.html" crc="462424273" seo="true" mt="1549470386128" redirect="true"/>
+  <file name="index.html" crc="440068035" seo="true" mt="1551805192800" redirect="true"/>
 </manifest>
