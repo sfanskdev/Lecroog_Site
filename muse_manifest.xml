@@ -1,9 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lecroog.com" resolutions="1x" timestamp="1551805232071">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lecroog.com" resolutions="1x" timestamp="1562258269464">
   <folder name="css">
     <file name="site_global.css" crc="490001510"/>
-    <file name="master_a-master.css" crc="72638224" ref="index"/>
-    <file name="index.css" crc="302605646" ref="index"/>
-    <file name="iefonts_index.css" crc="3922013744" ref="index"/>
+    <file name="master_a-master.css" crc="536670302" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="376245791" ref="index"/>
+    <file name="index.css" crc="411219452" ref="index"/>
+    <file name="nomq_index.css" crc="472977530" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -12,50 +13,103 @@
     <file name="museconfig.js" crc="4286661555" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
     <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
     <file name="lecroog_circle(r).png" crc="4025198172" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="lecroog_logo(r).png" crc="3907291186" ref="index">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0176.jpg" crc="298716762" ref="index">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0162.jpg" crc="4037603715" ref="index">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0163.jpg" crc="4033689467" ref="index">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0172.jpg" crc="3811656951" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0171.jpg" crc="3785711289" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0168.jpg" crc="4112821194" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0137.jpg" crc="461430540" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0151.jpg" crc="4013083584" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0148.jpg" crc="177964106" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0141.jpg" crc="3985038789" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_0150.jpg" crc="4108266656" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="tel.svg" crc="118098464" ref="index"/>
     <file name="tel_poster_u1979.png" crc="4018328037" ref="index"/>
+    <file name="img_0176.jpg" crc="3970076437" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0162.jpg" crc="425413044" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0163.jpg" crc="180061973" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0172.jpg" crc="428242109" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0171.jpg" crc="4035570572" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0168.jpg" crc="4260684330" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0137.jpg" crc="156603794" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0151.jpg" crc="4255591761" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0148.jpg" crc="518605999" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0141.jpg" crc="431692749" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0150.jpg" crc="4108266656" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="440068035" seo="true" mt="1551805192800" redirect="true"/>
+  <file name="index.html" crc="4067024096" seo="true" mt="1562258245960" redirect="true"/>
 </manifest>
