@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lecroog.com" resolutions="1x" timestamp="1562258269464">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lecroog.com" resolutions="1x" timestamp="1562259156933">
   <folder name="css">
     <file name="site_global.css" crc="490001510"/>
-    <file name="master_a-master.css" crc="536670302" ref="index"/>
+    <file name="master_a-master.css" crc="353633134" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="376245791" ref="index"/>
-    <file name="index.css" crc="411219452" ref="index"/>
-    <file name="nomq_index.css" crc="472977530" ref="index"/>
+    <file name="index.css" crc="506617057" ref="index"/>
+    <file name="nomq_index.css" crc="4084649476" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -111,5 +111,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4067024096" seo="true" mt="1562258245960" redirect="true"/>
+  <file name="index.html" crc="4248598402" seo="true" mt="1562259108154" redirect="true"/>
 </manifest>
